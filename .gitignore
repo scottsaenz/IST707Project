@@ -36,4 +36,4 @@ vignettes/*.pdf
 rsconnect/
 
 # CSV directory
-/csv/
+/csvs/
